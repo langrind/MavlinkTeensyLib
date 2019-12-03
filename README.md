@@ -4,7 +4,7 @@ This project provides directories that you can move to your Arduino
 Sketchbook `libraries/` directory, thus allowing you to use MAVLink in
 any sketch.
 
-[Why is this not simply an Arduino library ZIP file?](Excuses).
+[Why is this not simply an Arduino library ZIP file?](#Excuses).
 
 Two directories are provided:
 
